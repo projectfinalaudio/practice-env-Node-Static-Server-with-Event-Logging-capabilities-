@@ -1,0 +1,5 @@
+20230213	11:41:49	853c65e4-6342-4366-ba3f-72cd4ee65afb	/new-page.html	GET
+20230213	11:41:49	724f3b03-ff36-4e5f-bb31-4c73fd79c829	/css/main.css	GET
+20230213	11:41:49	b9b5755f-aec9-4b7d-8d75-d50dafb15107	/js/main.js	GET
+20230213	11:41:49	db3b58f7-be36-4bea-a9ff-0ccbd998d84f	/img/placeholder-image-3.png	GET
+20230213	11:44:43	583b6ee3-ba4c-44c4-b2e4-4826cc6301aa	/new-page.html	GET
