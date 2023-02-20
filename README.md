@@ -1,1 +1,1 @@
-# (practice env)Node Static Server with Event Logging capabilities.
+# (practice env)Static Server with Event Logging capabilities.
